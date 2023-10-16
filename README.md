@@ -1,26 +1,35 @@
+
 # WMO Weather Codes (WMO4677) - World Meteorological Organization
-World Meteorological Organization (WMO) Weather Codes | WMO4677
 
-WMO-Codes-Scraper
-This repository contains a web scraper written in R to extract WMO codes from the NOAA page and get a dataset of the extracted codes.
+This repository provides a dataset and R code to scrape and parse the weather codes as defined by the World Meteorological Organization (WMO) in the WMO4677 specification.
 
-Contents
-WMO_scraper.R - R code for scraping WMO codes.
-weather_data.json - Dataset in JSON format containing the extracted WMO codes.
-How to Use
-Install Dependencies:
-Before running the R code, ensure you have the following R libraries installed:
+## Contents
 
-R
-Copy code
-install.packages("rvest")
-install.packages("dplyr")
-install.packages("jsonlite")
-Run the Code:
-Execute WMO_scraper.R to obtain a fresh set of scraped data from the NOAA page.
+1. **R Script for Scraping**: An R script to scrape the WMO4677 weather codes from the official webpage.
+2. **Weather Codes Dataset**: A JSON file containing the scraped weather codes.
 
-Dataset:
-After running the scraper, the updated dataset can be found in weather_data.json.
+## Usage
 
-Contributing
-If you find any errors or would like to contribute to the scraper's improvement, feel free to open an issue or a pull request.
+### Scraping the Data
+
+1. Open the provided R script.
+2. Ensure you have the required R packages installed.
+3. Run the script to scrape the weather codes from the WMO page.
+
+### Using the Dataset
+
+1. Download the JSON file containing the weather codes.
+2. Use it in your applications or platforms that support JSON data.
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue if you have updates or corrections.
+
+## License
+
+This dataset and script are shared under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- World Meteorological Organization for providing the WMO4677 specification.
+
