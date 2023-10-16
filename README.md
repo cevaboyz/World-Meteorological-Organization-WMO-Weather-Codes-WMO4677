@@ -12,7 +12,7 @@ This repository provides a dataset and R code to scrape and parse the weather co
 ## Contents
 
 1. **R Script for Scraping**: An R script to scrape the WMO4677 weather codes from the official webpage.
-2. **Weather Codes Dataset**: A JSON file containing the scraped weather codes.
+2. **Weather Codes Dataset**: A CSV file containing the scraped weather codes.
 
 ## Usage
 
