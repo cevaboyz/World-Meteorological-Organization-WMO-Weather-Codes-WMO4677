@@ -1,4 +1,4 @@
-# World-Meteorological-Organization-WMO-Weather-Codes-WMO4677
+# WMO Weather Codes (WMO4677) - World Meteorological Organization
 World Meteorological Organization (WMO) Weather Codes | WMO4677
 
 WMO-Codes-Scraper
