@@ -1,6 +1,12 @@
 
 # WMO Weather Codes (WMO4677) - World Meteorological Organization
 
+![Alt text](https://github.com/cevaboyz/World-Meteorological-Organization-WMO-Weather-Codes-WMO4677/blob/main/DALL%C2%B7E%202023-10-16%2016.57.37%20-%20Vector%20image%20of%20a%20meteorologist%20standing%20beside%20a%20weather%20chart%20pointing%20at%20different%20weather%20codes.%20Next%20to%20him%20is%20a%20laptop%20running%20an%20R%20script%2C%20a.png))
+
+
+
+
+
 This repository provides a dataset and R code to scrape and parse the weather codes as defined by the World Meteorological Organization (WMO) in the WMO4677 specification.
 
 ## Contents
